@@ -32,8 +32,11 @@ public class main {
                 break;
 
             case 2:
+                           
+                System.out.println("Alejandra Reyes");
                 System.out.println("Byron Mier");
                 System.out.println("Juan Paz");
+                break;
 
             case 3:
 
