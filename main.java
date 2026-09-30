@@ -33,6 +33,7 @@ public class main {
 
             case 2:
                 System.out.println("Byron Mier");
+                System.out.println("Juan Paz");
 
             case 3:
 
