@@ -32,6 +32,7 @@ public class main {
                 break;
 
             case 2:
+                System.out.println("angel");
 
             case 3:
 
