@@ -32,6 +32,8 @@ public class main {
                 break;
 
             case 2:
+                System.out.println("Alejandra Reyes");
+                break;
 
             case 3:
 
