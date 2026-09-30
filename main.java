@@ -33,6 +33,7 @@ public class main {
 
             case 2:
                 System.out.println("angel");
+                break;
 
             case 3:
 
