@@ -6,13 +6,14 @@
 // EL PROGRAMA DEBE RECIBIR EL NOMBRE Y EL SALARIO DEL TRABAJADOR
 
 import java.util.*;
+import javax.swing.JOptionPane;
 
 public class main {
 
     public static void main(String[] args) {
 
         String nombre;
-        double salario;
+        double salario=600;
         int opcion;
 
         Scanner entrada = new Scanner(System.in);
@@ -27,12 +28,16 @@ public class main {
 
         switch( opcion ){
             case 1: 
+                salario = salario + ( salario*0.25);
+                break;
 
             case 2:
 
             case 3:
 
         }
+
+        JOptionPane.showMessageDialog(null, "El salario es: "+salario);
 
 
 
